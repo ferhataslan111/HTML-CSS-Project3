@@ -1,5 +1,3 @@
 # HTML-CSS-Project3
 
-<video width="360" height="320" controls="controls">
-  <source src="3.mp4" type="video/mp4" />
-</video>
+<img src="https://github.com/ferhataslan111/HTML-CSS-Project3/blob/main/3.gif?raw=true">
